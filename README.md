@@ -6,4 +6,5 @@
 # 課程筆記區
 # 作業連結區
 9/14練習：https://github.com/YangChingShen/my-new-repository/blob/main/TASK1.ipynb
+HW1：https://github.com/YangChingShen/my-new-repository/blob/main/HW1/Task2.ipynb
 # 專題連結區
