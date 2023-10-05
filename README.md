@@ -9,4 +9,5 @@
 #### HW1：https://github.com/YangChingShen/my-new-repository/blob/main/0921HW1/Task2.ipynb
 #### HW1圖片：https://github.com/YangChingShen/my-new-repository/blob/main/0921HW1/0921HW1.docx
 #### 9/28練習：https://github.com/YangChingShen/my-new-repository/blob/main/0928%E7%B7%B4%E7%BF%92/HW1-Part2.ipynb
+#### HW2：https://github.com/YangChingShen/my-new-repository/blob/main/1005HW2/20231005.task3.ipynb
 # 專題連結區
