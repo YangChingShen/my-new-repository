@@ -12,4 +12,6 @@
 #### HW2：https://github.com/YangChingShen/my-new-repository/blob/main/1005HW2/20231005.task3.ipynb
 #### HW2圖片：https://github.com/YangChingShen/my-new-repository/blob/main/1005HW2/1005HW1.docx
 #### HW3：https://github.com/YangChingShen/my-new-repository/blob/main/HW3/HW3.ipynb
+#### HW3 csv檔案：https://github.com/YangChingShen/my-new-repository/blob/main/HW3/NewJeans.csv
+#### HW3 json檔案：https://github.com/YangChingShen/my-new-repository/blob/main/HW3/NewJeans.json
 # 專題連結區
