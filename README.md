@@ -14,4 +14,5 @@
 #### [HW3](https://github.com/YangChingShen/my-new-repository/blob/main/HW3/HW3.ipynb)
 #### [HW3csv檔案](https://github.com/YangChingShen/my-new-repository/blob/main/HW3/NewJeans.csv)
 #### [HW3json檔案](https://github.com/YangChingShen/my-new-repository/blob/main/HW3/NewJeans.json)
+#### [HW4](https://github.com/YangChingShen/my-new-repository/blob/main/HW4/HW4.ipynb)
 # 專題連結區
